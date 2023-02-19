@@ -1,0 +1,48 @@
+
+E17.png
+size: 581,581
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer-1-copy-2
+  rotate: false
+  xy: 2, 201
+  size: 390, 378
+  orig: 390, 378
+  offset: 0, 0
+  index: -1
+Layer-10
+  rotate: false
+  xy: 394, 515
+  size: 182, 64
+  orig: 182, 64
+  offset: 0, 0
+  index: -1
+Layer-15-copy
+  rotate: false
+  xy: 2, 2
+  size: 387, 197
+  orig: 387, 197
+  offset: 0, 0
+  index: -1
+Layer-5-copy
+  rotate: false
+  xy: 394, 444
+  size: 169, 69
+  orig: 169, 69
+  offset: 0, 0
+  index: -1
+Layer-8-copy
+  rotate: false
+  xy: 394, 256
+  size: 50, 92
+  orig: 50, 92
+  offset: 0, 0
+  index: -1
+Layer-9
+  rotate: false
+  xy: 394, 350
+  size: 50, 92
+  orig: 50, 92
+  offset: 0, 0
+  index: -1

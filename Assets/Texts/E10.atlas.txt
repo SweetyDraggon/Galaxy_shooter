@@ -1,0 +1,48 @@
+
+E10.png
+size: 392,392
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer-12
+  rotate: false
+  xy: 2, 125
+  size: 266, 265
+  orig: 266, 265
+  offset: 0, 0
+  index: -1
+Layer-15-copy
+  rotate: true
+  xy: 270, 257
+  size: 133, 120
+  orig: 133, 120
+  offset: 0, 0
+  index: -1
+Layer-15-copy-3
+  rotate: false
+  xy: 138, 32
+  size: 143, 91
+  orig: 143, 91
+  offset: 0, 0
+  index: -1
+Layer-15-copy-4
+  rotate: false
+  xy: 2, 2
+  size: 134, 121
+  orig: 134, 121
+  offset: 0, 0
+  index: -1
+Layer-15-copy-5
+  rotate: true
+  xy: 283, 51
+  size: 140, 89
+  orig: 140, 89
+  offset: 0, 0
+  index: -1
+Layer-18-copy
+  rotate: false
+  xy: 270, 193
+  size: 111, 62
+  orig: 111, 62
+  offset: 0, 0
+  index: -1

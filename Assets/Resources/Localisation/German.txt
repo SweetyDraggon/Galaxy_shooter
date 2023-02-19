@@ -1,0 +1,33 @@
+<document>
+  <string name="CHALLENGE">HERAUSFORDERUNG</string>
+  <string name="INFINITY">UNENDLICHKEIT</string>
+  <string name="UPGRADE">UPGRADE</string>
+  <string name="SETTINGS">EINSTELLUNGEN</string>
+  <string name="MUSIC">MUSIK</string>
+  <string name="SOUND">KLANG</string>
+  <string name="AGEEE">AGEEE</string>
+  <string name="Tips:">Tipps:</string>
+  <string name="Score:">Ergebnis:</string>
+  <string name="Map:">Karte:</string>
+  <string name="Wave">Welle</string>
+  <string name="LOADING...">WIRD GELADEN...</string>
+  <string name="PAUSE">PAUSE</string>
+  <string name="UPGRADE_SPACESHIP">VERBESSERE RAUMSCHIFF</string>
+  <string name="Power">Schaden </string>
+  <string name="Max">Maximale Kraft</string>
+  <string name="DEFEAT">NIEDERLAGE</string>
+  <string name="High_Score:">Bestes Ergebnis:</string>
+  <string name="LEVEL_COMPLETE">LEVEL ABGESCHLOSSEN</string>
+  <string name="Coin:">Münzen:</string>
+  <string name="START">START</string>
+  <string name="You_Want_to_Quit?">Willst du das Spiel verlassen?</string>
+  <string name="NO">NEIN</string>
+  <string name="YES">JA</string>
+  <string name="SafeZone">Sicherheitszone</string>
+  <string name="Danger">Gefährlich</string>
+  <string name="tip_0">Du kannst Münzen für ein zusätzliches Leben eintauschen</string>
+  <string name="tip_1">Sammle Edelsteine ein, um Raketen zu erhalten</string>
+  <string name="tip_2">Lass den Finger los, um eine Rakete auszuwählen</string>
+  <string name="congrats">Herzliche Glückwünsche!</string>
+  <string name="win_msg">Du hast Raum von außerirdischen Eindringlingen gesäubert!</string>
+</document>

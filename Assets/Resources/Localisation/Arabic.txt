@@ -1,0 +1,33 @@
+<document>
+  <string name="CHALLENGE">التحدي</string>
+  <string name="INFINITY">اللانهائية </string>
+  <string name="UPGRADE">ترقية</string>
+  <string name="SETTINGS">الإعدادات</string>
+  <string name="MUSIC">الموسيقى</string>
+  <string name="SOUND">الصوت</string>
+  <string name="AGEEE">موافق</string>
+  <string name="Tips:">تلميحات:</string>
+  <string name="Score:">النتيجة:</string>
+  <string name="Map:">الخريطة:</string>
+  <string name="Wave">الموجة</string>
+  <string name="LOADING...">جارِ التحميل...</string>
+  <string name="PAUSE">توقف مؤقت</string>
+  <string name="UPGRADE_SPACESHIP">ترقية سفينة الفضاء</string>
+  <string name="Power">تلف</string>
+  <string name="Max">أقصى قوة</string>
+  <string name="DEFEAT">هزيمة</string>
+  <string name="High_Score:">أفضل نتيجة:</string>
+  <string name="LEVEL_COMPLETE">اكتمل المستوى</string>
+  <string name="Coin:">العملات:</string>
+  <string name="START">بدء</string>
+  <string name="You_Want_to_Quit?">هل ترغب في الانسحاب؟</string>
+  <string name="NO">لا</string>
+  <string name="YES">نعم</string>
+  <string name="SafeZone">المنطقة الآمنة</string>
+  <string name="Danger">خطر</string>
+  <string name="tip_0">يمكنك مقايضة العملات نظير حياة إضافية</string>
+  <string name="tip_1">التقط جوهرة للحصول على الصواريخ</string>
+  <string name="tip_2">ارفع إصبعك لاختيار صاروخ</string>
+  <string name="congrats">تهانينا!</string>
+  <string name="win_msg">لقد حررت الفضاء من الغزاة الفضائيين!</string>
+</document>

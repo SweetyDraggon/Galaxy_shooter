@@ -1,0 +1,76 @@
+
+E4.png
+size: 489,489
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer-12
+  rotate: false
+  xy: 2, 214
+  size: 273, 273
+  orig: 273, 273
+  offset: 0, 0
+  index: -1
+Layer-13
+  rotate: true
+  xy: 2, 50
+  size: 162, 153
+  orig: 162, 153
+  offset: 0, 0
+  index: -1
+Layer-13-copy
+  rotate: false
+  xy: 312, 178
+  size: 126, 83
+  orig: 126, 83
+  offset: 0, 0
+  index: -1
+Layer-13-copy-2
+  rotate: true
+  xy: 312, 50
+  size: 126, 83
+  orig: 126, 83
+  offset: 0, 0
+  index: -1
+Layer-13-copy-3
+  rotate: true
+  xy: 157, 50
+  size: 162, 153
+  orig: 162, 153
+  offset: 0, 0
+  index: -1
+Layer-14-copy
+  rotate: true
+  xy: 397, 64
+  size: 112, 86
+  orig: 112, 86
+  offset: 0, 0
+  index: -1
+Layer-15
+  rotate: false
+  xy: 2, 2
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+Layer-15-copy
+  rotate: false
+  xy: 38, 2
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+Layer-7-copy-2
+  rotate: true
+  xy: 277, 376
+  size: 111, 178
+  orig: 111, 178
+  offset: 0, 0
+  index: -1
+Layer-7-copy-3
+  rotate: true
+  xy: 277, 263
+  size: 111, 178
+  orig: 111, 178
+  offset: 0, 0
+  index: -1

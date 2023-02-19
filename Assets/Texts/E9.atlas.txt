@@ -1,0 +1,76 @@
+
+E9.png
+size: 395,395
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer-14-copy-3
+  rotate: false
+  xy: 2, 102
+  size: 320, 291
+  orig: 320, 291
+  offset: 0, 0
+  index: -1
+Layer-14-copy-4
+  rotate: true
+  xy: 370, 110
+  size: 79, 19
+  orig: 79, 19
+  offset: 0, 0
+  index: -1
+Layer-15
+  rotate: true
+  xy: 324, 293
+  size: 100, 66
+  orig: 100, 66
+  offset: 0, 0
+  index: -1
+Layer-15-copy
+  rotate: false
+  xy: 2, 2
+  size: 81, 65
+  orig: 81, 65
+  offset: 0, 0
+  index: -1
+Layer-15-copy - Copy
+  rotate: false
+  xy: 85, 2
+  size: 81, 65
+  orig: 81, 65
+  offset: 0, 0
+  index: -1
+Layer-15-copy-2
+  rotate: true
+  xy: 168, 8
+  size: 59, 72
+  orig: 59, 72
+  offset: 0, 0
+  index: -1
+Layer-15-copy-2 - Copy
+  rotate: true
+  xy: 242, 41
+  size: 59, 72
+  orig: 59, 72
+  offset: 0, 0
+  index: -1
+Layer-15-copy-4
+  rotate: true
+  xy: 324, 191
+  size: 100, 66
+  orig: 100, 66
+  offset: 0, 0
+  index: -1
+Layer-17
+  rotate: true
+  xy: 324, 69
+  size: 120, 44
+  orig: 120, 44
+  offset: 0, 0
+  index: -1
+Layer-18-copy
+  rotate: false
+  xy: 316, 24
+  size: 74, 43
+  orig: 74, 43
+  offset: 0, 0
+  index: -1

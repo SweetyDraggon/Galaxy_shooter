@@ -1,0 +1,62 @@
+
+E3.png
+size: 409,409
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer-10
+  rotate: false
+  xy: 128, 2
+  size: 179, 59
+  orig: 179, 59
+  offset: 0, 0
+  index: -1
+Layer-10-copy
+  rotate: true
+  xy: 331, 228
+  size: 179, 59
+  orig: 179, 59
+  offset: 0, 0
+  index: -1
+Layer-12
+  rotate: false
+  xy: 331, 23
+  size: 38, 87
+  orig: 38, 87
+  offset: 0, 0
+  index: -1
+Layer-13
+  rotate: false
+  xy: 331, 112
+  size: 40, 114
+  orig: 40, 114
+  offset: 0, 0
+  index: -1
+Layer-2-copy
+  rotate: false
+  xy: 2, 16
+  size: 124, 147
+  orig: 124, 147
+  offset: 0, 0
+  index: -1
+Layer-7
+  rotate: false
+  xy: 2, 165
+  size: 131, 242
+  orig: 131, 242
+  offset: 0, 0
+  index: -1
+Layer-9
+  rotate: false
+  xy: 135, 236
+  size: 194, 171
+  orig: 194, 171
+  offset: 0, 0
+  index: -1
+Layer-9-copy
+  rotate: false
+  xy: 135, 63
+  size: 194, 171
+  orig: 194, 171
+  offset: 0, 0
+  index: -1

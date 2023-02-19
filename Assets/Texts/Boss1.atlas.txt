@@ -1,0 +1,97 @@
+
+Boss1.png
+size: 497,497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer-12-copy
+  rotate: false
+  xy: 2, 112
+  size: 115, 153
+  orig: 115, 153
+  offset: 0, 0
+  index: -1
+Layer-12-copy-2
+  rotate: false
+  xy: 119, 112
+  size: 115, 153
+  orig: 115, 153
+  offset: 0, 0
+  index: -1
+Layer-15-copy-5
+  rotate: false
+  xy: 2, 267
+  size: 244, 228
+  orig: 244, 228
+  offset: 0, 0
+  index: -1
+Layer-16-copy
+  rotate: false
+  xy: 155, 7
+  size: 70, 103
+  orig: 70, 103
+  offset: 0, 0
+  index: -1
+Layer-16-copy-4
+  rotate: false
+  xy: 389, 20
+  size: 70, 103
+  orig: 70, 103
+  offset: 0, 0
+  index: -1
+Layer-21
+  rotate: false
+  xy: 411, 325
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1
+Layer-21-copy-4
+  rotate: false
+  xy: 411, 325
+  size: 83, 84
+  orig: 83, 84
+  offset: 0, 0
+  index: -1
+Layer-21-copy
+  rotate: true
+  xy: 248, 311
+  size: 184, 161
+  orig: 184, 161
+  offset: 0, 0
+  index: -1
+Layer-21-copy-2
+  rotate: false
+  xy: 411, 411
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+Layer-21-copy-3
+  rotate: false
+  xy: 411, 411
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1
+Layer-21-copy-5
+  rotate: true
+  xy: 248, 125
+  size: 184, 161
+  orig: 184, 161
+  offset: 0, 0
+  index: -1
+Layer-24
+  rotate: true
+  xy: 236, 19
+  size: 104, 151
+  orig: 104, 151
+  offset: 0, 0
+  index: -1
+Layer-24-copy
+  rotate: true
+  xy: 2, 7
+  size: 103, 151
+  orig: 103, 151
+  offset: 0, 0
+  index: -1

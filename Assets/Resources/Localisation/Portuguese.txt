@@ -1,0 +1,33 @@
+<document>
+  <string name="CHALLENGE">DESAFIO</string>
+  <string name="INFINITY">INFINITO</string>
+  <string name="UPGRADE">MELHORIA</string>
+  <string name="SETTINGS">DEFINIÇÕES</string>
+  <string name="MUSIC">MÚSICA</string>
+  <string name="SOUND">SOM</string>
+  <string name="AGEEE">IDADEEE</string>
+  <string name="Tips:">Pontas:</string>
+  <string name="Score:">Pontuação:</string>
+  <string name="Map:">Mapa:</string>
+  <string name="Wave">Onda</string>
+  <string name="LOADING...">CARREGANDO...</string>
+  <string name="PAUSE">PAUSA</string>
+  <string name="UPGRADE_SPACESHIP">MELHORAR NAVE ESPACIAL</string>
+  <string name="Power">Dano</string>
+  <string name="Max">Poder máximo</string>
+  <string name="DEFEAT">DERROTA</string>
+  <string name="High_Score:">Melhor pontuação:</string>
+  <string name="LEVEL_COMPLETE">NÍVEL COMPLETO</string>
+  <string name="Coin:">Moedas:</string>
+  <string name="START">COMEÇAR</string>
+  <string name="You_Want_to_Quit?">Você quer desistir?</string>
+  <string name="NO">NÃO</string>
+  <string name="YES">SIM</string>
+  <string name="SafeZone">Zona segura</string>
+  <string name="Danger">Perigo</string>
+  <string name="tip_0">Você pode trocar moedas por uma vida extra</string>
+  <string name="tip_1">Pegue joia para obter mísseis</string>
+  <string name="tip_2">Solte o dedo para escolher o míssil</string>
+  <string name="congrats">Parabéns!</string>
+  <string name="win_msg">Você limpou os invasores alienígenas do espaço!</string>
+</document>

@@ -1,0 +1,76 @@
+
+E6.png
+size: 433,433
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer-13-copy-2
+  rotate: false
+  xy: 331, 364
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+Layer-13-copy-3
+  rotate: false
+  xy: 331, 295
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+Layer-16
+  rotate: false
+  xy: 400, 405
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Layer-16-copy
+  rotate: false
+  xy: 331, 267
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+Layer-17
+  rotate: false
+  xy: 2, 62
+  size: 189, 153
+  orig: 189, 153
+  offset: 0, 0
+  index: -1
+Layer-17-copy
+  rotate: false
+  xy: 2, 2
+  size: 148, 58
+  orig: 148, 58
+  offset: 0, 0
+  index: -1
+Layer-17-copy-2
+  rotate: false
+  xy: 152, 2
+  size: 148, 58
+  orig: 148, 58
+  offset: 0, 0
+  index: -1
+Layer-17-copy-3
+  rotate: false
+  xy: 193, 76
+  size: 109, 139
+  orig: 109, 139
+  offset: 0, 0
+  index: -1
+Layer-17-copy-4
+  rotate: false
+  xy: 304, 76
+  size: 109, 139
+  orig: 109, 139
+  offset: 0, 0
+  index: -1
+Layer-18
+  rotate: false
+  xy: 2, 217
+  size: 327, 214
+  orig: 327, 214
+  offset: 0, 0
+  index: -1

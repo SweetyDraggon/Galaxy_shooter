@@ -1,0 +1,33 @@
+<document>
+  <string name="CHALLENGE">ВИКЛИК</string>
+  <string name="INFINITY">НЕСКІНЧЕННІСТЬ</string>
+  <string name="UPGRADE">МОДЕРНІЗАЦІЯ</string>
+  <string name="SETTINGS">НАЛАШТУВАННЯ</string>
+  <string name="MUSIC">МУЗИКА</string>
+  <string name="SOUND">ЗВУК</string>
+  <string name="AGEEE">АГЕЕЕЕ</string>
+  <string name="Tips:">Порада:</string>
+  <string name="Score:">Рахунок:</string>
+  <string name="Map:">Карта:</string>
+  <string name="Wave">Хвиля</string>
+  <string name="LOADING...">ЗАВАНТАЖЕННЯ...</string>
+  <string name="PAUSE">ПАУЗА</string>
+  <string name="UPGRADE_SPACESHIP">МОДЕРНІЗУВАТИ КОРАБЕЛЬ</string>
+  <string name="Power">Шкода</string>
+  <string name="Max">Макс. потужність</string>
+  <string name="DEFEAT">ПОРАЗКА</string>
+  <string name="High_Score:">Найкращий рахунок:</string>
+  <string name="LEVEL_COMPLETE">РІВЕНЬ ЗАВЕРШЕНО</string>
+  <string name="Coin:">Монети:</string>
+  <string name="START">СТАРТ</string>
+  <string name="You_Want_to_Quit?">Ви хочете вийти?</string>
+  <string name="NO">НІ</string>
+  <string name="YES">ТАК</string>
+  <string name="SafeZone">Безпечно</string>
+  <string name="Danger">Небезпечно</string>
+  <string name="tip_0">Ти можеш міняти монетки на додаткове життя</string>
+  <string name="tip_1">Зберіть коштовності, щоб отримати ракети</string>
+  <string name="tip_2">Відпустіть палець, щоб вибрати ракету</string>
+  <string name="congrats">Вітаємо!</string>
+  <string name="win_msg">Ти зачистив космос від інопланетних загарбників!</string>
+</document>

@@ -1,0 +1,33 @@
+<document>
+  <string name="CHALLENGE">CHALLENGE</string>
+  <string name="INFINITY">INFINITY</string>
+  <string name="UPGRADE">UPGRADE</string>
+  <string name="SETTINGS">SETTINGS</string>
+  <string name="MUSIC">MUSIC</string>
+  <string name="SOUND">SOUND</string>
+  <string name="AGEEE">AGEEE</string>
+  <string name="Tips:">Tips:</string>
+  <string name="Score:">Score:</string>
+  <string name="Map:">Map:</string>
+  <string name="Wave">Wave</string>
+  <string name="LOADING...">LOADING...</string>
+  <string name="PAUSE">PAUSE</string>
+  <string name="UPGRADE_SPACESHIP">UPGRADE SPACESHIP</string>
+  <string name="Power">Damage</string>
+  <string name="Max">Max Power</string>
+  <string name="DEFEAT">DEFEAT</string>
+  <string name="High_Score:">Best score:</string>
+  <string name="LEVEL_COMPLETE">LEVEL COMPLETED</string>
+  <string name="Coin:">Coins:</string>
+  <string name="START">START</string>
+  <string name="You_Want_to_Quit?">You want to quit?</string>
+  <string name="NO">NO</string>
+  <string name="YES">YES</string>
+  <string name="SafeZone">Safe zone</string>
+  <string name="Danger">Danger</string>
+  <string name="tip_0">You can exchange coins for an extra life</string>
+  <string name="tip_1">Pick up gem to get missiles</string>
+  <string name="tip_2">Release finger to choose missile</string>
+  <string name="congrats">Congratulations!</string>
+  <string name="win_msg">You cleared space from alien invaders!</string>
+</document>

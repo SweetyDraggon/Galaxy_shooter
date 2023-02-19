@@ -1,0 +1,83 @@
+
+E12.png
+size: 435,435
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer-14-copy-5
+  rotate: true
+  xy: 206, 15
+  size: 132, 108
+  orig: 132, 108
+  offset: 0, 0
+  index: -1
+Layer-15-copy
+  rotate: false
+  xy: 359, 179
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+Layer-15-copy-4
+  rotate: false
+  xy: 386, 138
+  size: 47, 39
+  orig: 47, 39
+  offset: 0, 0
+  index: -1
+Layer-16
+  rotate: false
+  xy: 104, 4
+  size: 100, 143
+  orig: 100, 143
+  offset: 0, 0
+  index: -1
+Layer-16-copy
+  rotate: false
+  xy: 2, 2
+  size: 100, 145
+  orig: 100, 145
+  offset: 0, 0
+  index: -1
+Layer-20
+  rotate: false
+  xy: 316, 108
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+Layer-20-copy
+  rotate: false
+  xy: 359, 221
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+Layer-24
+  rotate: false
+  xy: 274, 363
+  size: 156, 70
+  orig: 156, 70
+  offset: 0, 0
+  index: -1
+Layer-24-copy
+  rotate: false
+  xy: 274, 291
+  size: 156, 70
+  orig: 156, 70
+  offset: 0, 0
+  index: -1
+Layer-25
+  rotate: false
+  xy: 2, 149
+  size: 270, 284
+  orig: 270, 284
+  offset: 0, 0
+  index: -1
+Layer-27-copy
+  rotate: false
+  xy: 274, 178
+  size: 83, 111
+  orig: 83, 111
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,33 @@
+<document>
+  <string name="CHALLENGE">DÉFI</string>
+  <string name="INFINITY">INFINITÉ</string>
+  <string name="UPGRADE">AMÉLIORER</string>
+  <string name="SETTINGS">PARAMÈTRES</string>
+  <string name="MUSIC">MUSIQUE</string>
+  <string name="SOUND">SON</string>
+  <string name="AGEEE">AGEEE</string>
+  <string name="Tips:">Astuces :</string>
+  <string name="Score:">Score :</string>
+  <string name="Map:">Carte :</string>
+  <string name="Wave">Vague</string>
+  <string name="LOADING...">CHARGEMENT...</string>
+  <string name="PAUSE">PAUSE</string>
+  <string name="UPGRADE_SPACESHIP">AMÉLIORER LE VAISSEAU</string>
+  <string name="Power">Dommages</string>
+  <string name="Max">Puissance max</string>
+  <string name="DEFEAT">DÉFAITE</string>
+  <string name="High_Score:">Meilleur score :</string>
+  <string name="LEVEL_COMPLETE">NIVEAU TERMINÉ</string>
+  <string name="Coin:">Pièces :</string>
+  <string name="START">DÉMARRER</string>
+  <string name="You_Want_to_Quit?">Tu veux arrêter ?</string>
+  <string name="NO">NON</string>
+  <string name="YES">OUI</string>
+  <string name="SafeZone">Zone sécurisée</string>
+  <string name="Danger">Danger</string>
+  <string name="tip_0">Tu peux acheter une vie supplémentaire avec des pièces</string>
+  <string name="tip_1">Récupère des gemmes pour obtenir des missiles</string>
+  <string name="tip_2">Cesse d'appuyer pour choisir le missile</string>
+  <string name="congrats">Félicitations !</string>
+  <string name="win_msg">Tu as éliminé les envahisseurs extra-terrestres !</string>
+</document>

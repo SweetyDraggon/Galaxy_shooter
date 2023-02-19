@@ -1,0 +1,3891 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c12edf8e7b41d117619e3925e6a71a8e, type: 3}
+  m_Name: "Map27"
+  m_EditorClassIdentifier: 
+  lsInfo:
+  - TextWave: "!"
+    Width: 5
+    row: 6
+    column: 5
+    idThienThach: -1
+    posSafe: []
+    posUnSafe: []
+    TypeSort: 1
+    Distance: 1.2
+    Bonus: 010000000100000002000000
+    Time: 1
+    Speed: 7
+    namePath:
+    - 
+    - 
+    posStart: {x: 5, y: 1}
+    rotation: 0
+    Count: 12
+    Loop: 0
+    isFreeStyle: 0
+    Grid:
+    - listEnemy:
+      - Type: 6
+        Health: 60
+        dx: 0
+        dy: 0
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 40
+        dx: 2
+        dy: 0
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 40
+        dx: 3
+        dy: 0
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 6
+        Health: 60
+        dx: 5
+        dy: 0
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 6
+        Health: 60
+        dx: 0
+        dy: 2
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 40
+        dx: 2
+        dy: 2
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 40
+        dx: 3
+        dy: 2
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 6
+        Health: 60
+        dx: 5
+        dy: 2
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 6
+        Health: 60
+        dx: 0
+        dy: 4
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 40
+        dx: 2
+        dy: 4
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 40
+        dx: 3
+        dy: 4
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 6
+        Health: 60
+        dx: 5
+        dy: 4
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+  - TextWave: "Wave 2"
+    Width: 6
+    row: 7
+    column: 5
+    idThienThach: -1
+    posSafe: []
+    posUnSafe: []
+    TypeSort: 2
+    Distance: 1.1
+    Bonus: 01000000010000000000000003000000
+    Time: 1
+    Speed: 7
+    namePath:
+    - "storm"
+    - 
+    posStart: {x: 5, y: 1}
+    rotation: 0
+    Count: 35
+    Loop: 0
+    isFreeStyle: 0
+    Grid:
+    - listEnemy:
+      - Type: 3
+        Health: 15
+        dx: 0
+        dy: 0
+        Delay: 0
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 10
+        dx: 1
+        dy: 0
+        Delay: 1
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 15
+        dx: 2
+        dy: 0
+        Delay: 2
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 10
+        dx: 3
+        dy: 0
+        Delay: 3
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 15
+        dx: 4
+        dy: 0
+        Delay: 4
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 10
+        dx: 5
+        dy: 0
+        Delay: 5
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 15
+        dx: 6
+        dy: 0
+        Delay: 6
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 2
+        Health: 15
+        dx: 0
+        dy: 1
+        Delay: 0.2
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 10
+        dx: 1
+        dy: 1
+        Delay: 1.2
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 15
+        dx: 2
+        dy: 1
+        Delay: 2.2
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 10
+        dx: 3
+        dy: 1
+        Delay: 3.2
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 15
+        dx: 4
+        dy: 1
+        Delay: 4.2
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 10
+        dx: 5
+        dy: 1
+        Delay: 5.2
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 15
+        dx: 6
+        dy: 1
+        Delay: 6.2
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 1
+        Health: 15
+        dx: 0
+        dy: 2
+        Delay: 0.4
+        Speed: 1
+        Arrow: -1
+      - Type: 1
+        Health: 10
+        dx: 1
+        dy: 2
+        Delay: 1.4
+        Speed: 1
+        Arrow: -1
+      - Type: 1
+        Health: 15
+        dx: 2
+        dy: 2
+        Delay: 2.4
+        Speed: 1
+        Arrow: -1
+      - Type: 1
+        Health: 10
+        dx: 3
+        dy: 2
+        Delay: 3.4
+        Speed: 1
+        Arrow: -1
+      - Type: 1
+        Health: 15
+        dx: 4
+        dy: 2
+        Delay: 4.4
+        Speed: 1
+        Arrow: -1
+      - Type: 1
+        Health: 10
+        dx: 5
+        dy: 2
+        Delay: 5.4
+        Speed: 1
+        Arrow: -1
+      - Type: 1
+        Health: 15
+        dx: 6
+        dy: 2
+        Delay: 6.4
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 4
+        Health: 15
+        dx: 0
+        dy: 3
+        Delay: 0.6
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 10
+        dx: 1
+        dy: 3
+        Delay: 1.6
+        Speed: 1
+        Arrow: -1
+      - Type: 4
+        Health: 15
+        dx: 2
+        dy: 3
+        Delay: 2.6
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 10
+        dx: 3
+        dy: 3
+        Delay: 3.6
+        Speed: 1
+        Arrow: -1
+      - Type: 4
+        Health: 15
+        dx: 4
+        dy: 3
+        Delay: 4.6
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 10
+        dx: 5
+        dy: 3
+        Delay: 5.6
+        Speed: 1
+        Arrow: -1
+      - Type: 4
+        Health: 15
+        dx: 6
+        dy: 3
+        Delay: 6.6
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 4
+        Health: 15
+        dx: 0
+        dy: 4
+        Delay: 0.8
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 10
+        dx: 1
+        dy: 4
+        Delay: 1.8
+        Speed: 1
+        Arrow: -1
+      - Type: 4
+        Health: 15
+        dx: 2
+        dy: 4
+        Delay: 2.8
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 10
+        dx: 3
+        dy: 4
+        Delay: 3.8
+        Speed: 1
+        Arrow: -1
+      - Type: 4
+        Health: 15
+        dx: 4
+        dy: 4
+        Delay: 4.8
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 10
+        dx: 5
+        dy: 4
+        Delay: 5.8
+        Speed: 1
+        Arrow: -1
+      - Type: 4
+        Health: 15
+        dx: 6
+        dy: 4
+        Delay: 6.8
+        Speed: 1
+        Arrow: -1
+  - TextWave: "Enemy Run!"
+    Width: 6
+    row: 7
+    column: 4
+    idThienThach: -1
+    posSafe: []
+    posUnSafe: []
+    TypeSort: 1
+    Distance: 1
+    Bonus: 010000000100000003000000
+    Time: 1
+    Speed: 7
+    namePath:
+    - "twirl"
+    - 
+    posStart: {x: 5, y: 1}
+    rotation: 0
+    Count: 28
+    Loop: 0
+    isFreeStyle: 0
+    Grid:
+    - listEnemy:
+      - Type: 4
+        Health: 17
+        dx: 0
+        dy: 0
+        Delay: 1
+        Speed: 1
+        Arrow: -1
+      - Type: 0
+        Health: 10
+        dx: 1
+        dy: 0
+        Delay: 1.8
+        Speed: 1
+        Arrow: -1
+      - Type: 4
+        Health: 17
+        dx: 2
+        dy: 0
+        Delay: 2.6
+        Speed: 1
+        Arrow: -1
+      - Type: 0
+        Health: 10
+        dx: 3
+        dy: 0
+        Delay: 3.4
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 17
+        dx: 4
+        dy: 0
+        Delay: 4.2
+        Speed: 1
+        Arrow: 1
+      - Type: 0
+        Health: 10
+        dx: 5
+        dy: 0
+        Delay: 5.2
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 17
+        dx: 6
+        dy: 0
+        Delay: 6
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 2
+        Health: 10
+        dx: 0
+        dy: 1
+        Delay: 1.2
+        Speed: 1
+        Arrow: -1
+      - Type: 5
+        Health: 15
+        dx: 1
+        dy: 1
+        Delay: 2
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 10
+        dx: 2
+        dy: 1
+        Delay: 2.8
+        Speed: 1
+        Arrow: -1
+      - Type: 5
+        Health: 15
+        dx: 3
+        dy: 1
+        Delay: 3.6
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 10
+        dx: 4
+        dy: 1
+        Delay: 4.6
+        Speed: 1
+        Arrow: 1
+      - Type: 5
+        Health: 15
+        dx: 5
+        dy: 1
+        Delay: 5.4
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 10
+        dx: 6
+        dy: 1
+        Delay: 6.2
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 3
+        Health: 15
+        dx: 0
+        dy: 2
+        Delay: 1.4
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 10
+        dx: 1
+        dy: 2
+        Delay: 2.2
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 15
+        dx: 2
+        dy: 2
+        Delay: 3
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 10
+        dx: 3
+        dy: 2
+        Delay: 3.8
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 15
+        dx: 4
+        dy: 2
+        Delay: 4.8
+        Speed: 1
+        Arrow: 1
+      - Type: 0
+        Health: 10
+        dx: 5
+        dy: 2
+        Delay: 5.6
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 15
+        dx: 6
+        dy: 2
+        Delay: 6.4
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 8
+        Health: 20
+        dx: 0
+        dy: 3
+        Delay: 1.6
+        Speed: 1
+        Arrow: -1
+      - Type: 8
+        Health: 20
+        dx: 1
+        dy: 3
+        Delay: 2.4
+        Speed: 1
+        Arrow: -1
+      - Type: 8
+        Health: 20
+        dx: 2
+        dy: 3
+        Delay: 3.2
+        Speed: 1
+        Arrow: -1
+      - Type: 8
+        Health: 20
+        dx: 3
+        dy: 3
+        Delay: 4
+        Speed: 1
+        Arrow: 1
+      - Type: 8
+        Health: 20
+        dx: 4
+        dy: 3
+        Delay: 5
+        Speed: 1
+        Arrow: 1
+      - Type: 8
+        Health: 20
+        dx: 5
+        dy: 3
+        Delay: 5.8
+        Speed: 1
+        Arrow: 1
+      - Type: 8
+        Health: 20
+        dx: 6
+        dy: 3
+        Delay: 6.6
+        Speed: 1
+        Arrow: 1
+  - TextWave: "Enemy Heart !"
+    Width: 6
+    row: 7
+    column: 6
+    idThienThach: -1
+    posSafe: []
+    posUnSafe: []
+    TypeSort: 2
+    Distance: 0.9
+    Bonus: 000000000100000003000000
+    Time: 1
+    Speed: 9
+    namePath:
+    - 
+    - 
+    posStart: {x: 5, y: 1}
+    rotation: 0
+    Count: 27
+    Loop: 0
+    isFreeStyle: 0
+    Grid:
+    - listEnemy:
+      - Type: 4
+        Health: 19
+        dx: 1
+        dy: 0
+        Delay: 0
+        Speed: 1
+        Arrow: -1
+      - Type: 4
+        Health: 19
+        dx: 2
+        dy: 0
+        Delay: 1
+        Speed: 1
+        Arrow: -1
+      - Type: 4
+        Health: 19
+        dx: 4
+        dy: 0
+        Delay: 2
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 19
+        dx: 5
+        dy: 0
+        Delay: 3
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 4
+        Health: 19
+        dx: 0
+        dy: 1
+        Delay: 0.2
+        Speed: 1
+        Arrow: -1
+      - Type: 4
+        Health: 19
+        dx: 1
+        dy: 1
+        Delay: 1.2
+        Speed: 1
+        Arrow: -1
+      - Type: 4
+        Health: 19
+        dx: 2
+        dy: 1
+        Delay: 2.2
+        Speed: 1
+        Arrow: -1
+      - Type: 4
+        Health: 19
+        dx: 3
+        dy: 1
+        Delay: 3.2
+        Speed: 1
+        Arrow: -1
+      - Type: 4
+        Health: 19
+        dx: 4
+        dy: 1
+        Delay: 4
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 19
+        dx: 5
+        dy: 1
+        Delay: 5
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 19
+        dx: 6
+        dy: 1
+        Delay: 6
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 1
+        Health: 10
+        dx: 0
+        dy: 2
+        Delay: 0.4
+        Speed: 1
+        Arrow: -1
+      - Type: 1
+        Health: 10
+        dx: 1
+        dy: 2
+        Delay: 1.4
+        Speed: 1
+        Arrow: -1
+      - Type: 1
+        Health: 10
+        dx: 2
+        dy: 2
+        Delay: 2.4
+        Speed: 1
+        Arrow: -1
+      - Type: 1
+        Health: 10
+        dx: 3
+        dy: 2
+        Delay: 3.4
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 10
+        dx: 4
+        dy: 2
+        Delay: 4.2
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 10
+        dx: 5
+        dy: 2
+        Delay: 5.2
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 10
+        dx: 6
+        dy: 2
+        Delay: 6.2
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 2
+        Health: 15
+        dx: 1
+        dy: 3
+        Delay: 0.6
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 15
+        dx: 2
+        dy: 3
+        Delay: 1.6
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 15
+        dx: 3
+        dy: 3
+        Delay: 2.6
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 15
+        dx: 4
+        dy: 3
+        Delay: 3.6
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 15
+        dx: 5
+        dy: 3
+        Delay: 4.6
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 3
+        Health: 17
+        dx: 2
+        dy: 4
+        Delay: 0.8
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 17
+        dx: 3
+        dy: 4
+        Delay: 1.8
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 17
+        dx: 4
+        dy: 4
+        Delay: 2.8
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 5
+        Health: 30
+        dx: 3
+        dy: 5
+        Delay: 1
+        Speed: 1
+        Arrow: -1
+  - TextWave: "Chickien square!"
+    Width: 4
+    row: 5
+    column: 4
+    idThienThach: -1
+    posSafe: []
+    posUnSafe: []
+    TypeSort: 1
+    Distance: 1.3
+    Bonus: 01000000020000000000000002000000
+    Time: 1
+    Speed: 5
+    namePath:
+    - 
+    - 
+    posStart: {x: 5, y: -4}
+    rotation: 0
+    Count: 16
+    Loop: 0
+    isFreeStyle: 0
+    Grid:
+    - listEnemy:
+      - Type: 2
+        Health: 20
+        dx: 1
+        dy: 0
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 20
+        dx: 2
+        dy: 0
+        Delay: 2
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 20
+        dx: 3
+        dy: 0
+        Delay: 3
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 2
+        Health: 20
+        dx: 0
+        dy: 1
+        Delay: 1.2
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 20
+        dx: 1
+        dy: 1
+        Delay: 2.2
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 20
+        dx: 2
+        dy: 1
+        Delay: 3.2
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 20
+        dx: 3
+        dy: 1
+        Delay: 4
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 20
+        dx: 4
+        dy: 1
+        Delay: 4
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 2
+        Health: 20
+        dx: 1
+        dy: 2
+        Delay: 1.4
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 20
+        dx: 2
+        dy: 2
+        Delay: 2.4
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 20
+        dx: 3
+        dy: 2
+        Delay: 3.4
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 2
+        Health: 20
+        dx: 0
+        dy: 3
+        Delay: 1.6
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 20
+        dx: 1
+        dy: 3
+        Delay: 2.6
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 20
+        dx: 2
+        dy: 3
+        Delay: 3.6
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 2
+        dx: 3
+        dy: 3
+        Delay: 4.2
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 20
+        dx: 4
+        dy: 3
+        Delay: 4.2
+        Speed: 1
+        Arrow: 1
+  - TextWave: "Deffence!"
+    Width: 6
+    row: 7
+    column: 5
+    idThienThach: -1
+    posSafe: []
+    posUnSafe: []
+    TypeSort: 2
+    Distance: 0.8
+    Bonus: 01000000020000000200000003000000
+    Time: 1
+    Speed: 5
+    namePath:
+    - 
+    - 
+    posStart: {x: 5, y: 1}
+    rotation: 0
+    Count: 19
+    Loop: 0
+    isFreeStyle: 0
+    Grid:
+    - listEnemy:
+      - Type: 2
+        Health: 25
+        dx: 0
+        dy: 0
+        Delay: 0
+        Speed: 1
+        Arrow: -1
+      - Type: 1
+        Health: 20
+        dx: 1
+        dy: 0
+        Delay: 0
+        Speed: 1
+        Arrow: -1
+      - Type: 0
+        Health: 18
+        dx: 2
+        dy: 0
+        Delay: 0
+        Speed: 1
+        Arrow: -1
+      - Type: 0
+        Health: 18
+        dx: 3
+        dy: 0
+        Delay: 0
+        Speed: 1
+        Arrow: -1
+      - Type: 0
+        Health: 18
+        dx: 4
+        dy: 0
+        Delay: 0
+        Speed: 1
+        Arrow: -1
+      - Type: 1
+        Health: 20
+        dx: 5
+        dy: 0
+        Delay: 0
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 25
+        dx: 6
+        dy: 0
+        Delay: 0
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 2
+        Health: 25
+        dx: 1
+        dy: 1
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 20
+        dx: 2
+        dy: 1
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 0
+        Health: 18
+        dx: 3
+        dy: 1
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 20
+        dx: 4
+        dy: 1
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 20
+        dx: 5
+        dy: 1
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 2
+        Health: 25
+        dx: 2
+        dy: 2
+        Delay: 2
+        Speed: 1
+        Arrow: -1
+      - Type: 0
+        Health: 18
+        dx: 3
+        dy: 2
+        Delay: 2
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 25
+        dx: 4
+        dy: 2
+        Delay: 2
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 2
+        Health: 25
+        dx: 3
+        dy: 3
+        Delay: 3
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 7
+        Health: 9
+        dx: 1
+        dy: 4
+        Delay: 0
+        Speed: 1
+        Arrow: 1
+      - Type: 7
+        Health: 9
+        dx: 3
+        dy: 4
+        Delay: 0
+        Speed: 1
+        Arrow: 1
+      - Type: 7
+        Health: 9
+        dx: 5
+        dy: 4
+        Delay: 0
+        Speed: 1
+        Arrow: 1
+  - TextWave: "Deffence!"
+    Width: 6
+    row: 7
+    column: 5
+    idThienThach: -1
+    posSafe: []
+    posUnSafe: []
+    TypeSort: 2
+    Distance: 1.1
+    Bonus: 01000000020000000200000003000000
+    Time: 1
+    Speed: 5
+    namePath:
+    - 
+    - 
+    posStart: {x: 5, y: 1}
+    rotation: 0
+    Count: 19
+    Loop: 0
+    isFreeStyle: 0
+    Grid:
+    - listEnemy:
+      - Type: 2
+        Health: 30
+        dx: 0
+        dy: 0
+        Delay: 0
+        Speed: 1
+        Arrow: -1
+      - Type: 1
+        Health: 20
+        dx: 1
+        dy: 0
+        Delay: 0
+        Speed: 1
+        Arrow: -1
+      - Type: 0
+        Health: 18
+        dx: 2
+        dy: 0
+        Delay: 0
+        Speed: 1
+        Arrow: -1
+      - Type: 0
+        Health: 18
+        dx: 3
+        dy: 0
+        Delay: 0
+        Speed: 1
+        Arrow: -1
+      - Type: 0
+        Health: 18
+        dx: 4
+        dy: 0
+        Delay: 0
+        Speed: 1
+        Arrow: -1
+      - Type: 1
+        Health: 20
+        dx: 5
+        dy: 0
+        Delay: 0
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 25
+        dx: 6
+        dy: 0
+        Delay: 0
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 2
+        Health: 30
+        dx: 1
+        dy: 1
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 20
+        dx: 2
+        dy: 1
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 0
+        Health: 18
+        dx: 3
+        dy: 1
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 20
+        dx: 4
+        dy: 1
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 20
+        dx: 5
+        dy: 1
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 2
+        Health: 30
+        dx: 2
+        dy: 2
+        Delay: 2
+        Speed: 1
+        Arrow: -1
+      - Type: 0
+        Health: 18
+        dx: 3
+        dy: 2
+        Delay: 2
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 30
+        dx: 4
+        dy: 2
+        Delay: 2
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 2
+        Health: 30
+        dx: 3
+        dy: 3
+        Delay: 3
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 7
+        Health: 45
+        dx: 1
+        dy: 4
+        Delay: 0
+        Speed: 1
+        Arrow: 1
+      - Type: 7
+        Health: 45
+        dx: 3
+        dy: 4
+        Delay: 0
+        Speed: 1
+        Arrow: 1
+      - Type: 7
+        Health: 45
+        dx: 5
+        dy: 4
+        Delay: 0
+        Speed: 1
+        Arrow: 1
+  - TextWave: "Enemy Heart !"
+    Width: 6
+    row: 7
+    column: 5
+    idThienThach: -1
+    posSafe: []
+    posUnSafe: []
+    TypeSort: 2
+    Distance: 1
+    Bonus: 01000000010000000000000003000000
+    Time: 1
+    Speed: 7
+    namePath:
+    - "path5"
+    - 
+    posStart: {x: 5, y: 1}
+    rotation: 0
+    Count: 35
+    Loop: 0
+    isFreeStyle: 0
+    Grid:
+    - listEnemy:
+      - Type: 7
+        Health: 50
+        dx: 0
+        dy: 0
+        Delay: 0.2
+        Speed: 0.5
+        Arrow: 1
+      - Type: 3
+        Health: 40
+        dx: 1
+        dy: 0
+        Delay: 0.2
+        Speed: 0.5
+        Arrow: -1
+      - Type: 2
+        Health: 11
+        dx: 2
+        dy: 0
+        Delay: 1.2
+        Speed: 0.5
+        Arrow: 1
+      - Type: 3
+        Health: 40
+        dx: 3
+        dy: 0
+        Delay: 1.2
+        Speed: 0.5
+        Arrow: -1
+      - Type: 2
+        Health: 11
+        dx: 4
+        dy: 0
+        Delay: 2.2
+        Speed: 0.5
+        Arrow: 1
+      - Type: 3
+        Health: 40
+        dx: 5
+        dy: 0
+        Delay: 2.2
+        Speed: 0.5
+        Arrow: -1
+      - Type: 7
+        Health: 50
+        dx: 6
+        dy: 0
+        Delay: 3.2
+        Speed: 0.5
+        Arrow: 1
+    - listEnemy:
+      - Type: 7
+        Health: 50
+        dx: 0
+        dy: 1
+        Delay: 0.4
+        Speed: 0.5
+        Arrow: 1
+      - Type: 3
+        Health: 40
+        dx: 1
+        dy: 1
+        Delay: 0.4
+        Speed: 0.5
+        Arrow: -1
+      - Type: 2
+        Health: 11
+        dx: 2
+        dy: 1
+        Delay: 1.4
+        Speed: 0.5
+        Arrow: 1
+      - Type: 3
+        Health: 40
+        dx: 3
+        dy: 1
+        Delay: 1.4
+        Speed: 0.5
+        Arrow: -1
+      - Type: 2
+        Health: 11
+        dx: 4
+        dy: 1
+        Delay: 2.4
+        Speed: 0.5
+        Arrow: 1
+      - Type: 3
+        Health: 40
+        dx: 5
+        dy: 1
+        Delay: 2.4
+        Speed: 0.5
+        Arrow: -1
+      - Type: 7
+        Health: 50
+        dx: 6
+        dy: 1
+        Delay: 3.4
+        Speed: 0.5
+        Arrow: 1
+    - listEnemy:
+      - Type: 7
+        Health: 50
+        dx: 0
+        dy: 2
+        Delay: 0.6
+        Speed: 0.5
+        Arrow: 1
+      - Type: 3
+        Health: 40
+        dx: 1
+        dy: 2
+        Delay: 0.6
+        Speed: 0.5
+        Arrow: -1
+      - Type: 2
+        Health: 11
+        dx: 2
+        dy: 2
+        Delay: 1.6
+        Speed: 0.5
+        Arrow: 1
+      - Type: 3
+        Health: 40
+        dx: 3
+        dy: 2
+        Delay: 1.6
+        Speed: 0.5
+        Arrow: -1
+      - Type: 2
+        Health: 11
+        dx: 4
+        dy: 2
+        Delay: 2.6
+        Speed: 0.5
+        Arrow: 1
+      - Type: 3
+        Health: 40
+        dx: 5
+        dy: 2
+        Delay: 2.6
+        Speed: 0.5
+        Arrow: -1
+      - Type: 7
+        Health: 50
+        dx: 6
+        dy: 2
+        Delay: 3.6
+        Speed: 0.5
+        Arrow: 1
+    - listEnemy:
+      - Type: 7
+        Health: 50
+        dx: 0
+        dy: 3
+        Delay: 0.8
+        Speed: 0.5
+        Arrow: 1
+      - Type: 3
+        Health: 40
+        dx: 1
+        dy: 3
+        Delay: 0.8
+        Speed: 0.5
+        Arrow: -1
+      - Type: 2
+        Health: 11
+        dx: 2
+        dy: 3
+        Delay: 1.8
+        Speed: 0.5
+        Arrow: 1
+      - Type: 3
+        Health: 40
+        dx: 3
+        dy: 3
+        Delay: 1.8
+        Speed: 0.5
+        Arrow: -1
+      - Type: 2
+        Health: 11
+        dx: 4
+        dy: 3
+        Delay: 2.8
+        Speed: 0.5
+        Arrow: 1
+      - Type: 3
+        Health: 40
+        dx: 5
+        dy: 3
+        Delay: 2.8
+        Speed: 0.5
+        Arrow: -1
+      - Type: 7
+        Health: 50
+        dx: 6
+        dy: 3
+        Delay: 3.8
+        Speed: 0.5
+        Arrow: 1
+    - listEnemy:
+      - Type: 2
+        Health: 35
+        dx: 0
+        dy: 4
+        Delay: 1
+        Speed: 0.5
+        Arrow: 1
+      - Type: 3
+        Health: 40
+        dx: 1
+        dy: 4
+        Delay: 1
+        Speed: 0.5
+        Arrow: -1
+      - Type: 2
+        Health: 11
+        dx: 2
+        dy: 4
+        Delay: 2
+        Speed: 0.5
+        Arrow: 1
+      - Type: 3
+        Health: 40
+        dx: 3
+        dy: 4
+        Delay: 2
+        Speed: 0.5
+        Arrow: -1
+      - Type: 2
+        Health: 11
+        dx: 4
+        dy: 4
+        Delay: 3
+        Speed: 0.5
+        Arrow: 1
+      - Type: 3
+        Health: 40
+        dx: 5
+        dy: 4
+        Delay: 3
+        Speed: 0.5
+        Arrow: -1
+      - Type: 2
+        Health: 35
+        dx: 6
+        dy: 4
+        Delay: 4
+        Speed: 0.5
+        Arrow: 1
+  - TextWave: "Enemy Run!"
+    Width: 6
+    row: 7
+    column: 5
+    idThienThach: -1
+    posSafe: []
+    posUnSafe: []
+    TypeSort: 1
+    Distance: 1.2
+    Bonus: 00000000020000000100000004000000
+    Time: 2
+    Speed: 5
+    namePath:
+    - 
+    - 
+    posStart: {x: 5, y: 1}
+    rotation: 0
+    Count: 35
+    Loop: 0
+    isFreeStyle: 0
+    Grid:
+    - listEnemy:
+      - Type: 3
+        Health: 30
+        dx: 0
+        dy: 0
+        Delay: 0
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 1
+        dy: 0
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 2
+        dy: 0
+        Delay: 2
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 3
+        dy: 0
+        Delay: 3
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 4
+        dy: 0
+        Delay: 0.6
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 30
+        dx: 5
+        dy: 0
+        Delay: 2.6
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 30
+        dx: 6
+        dy: 0
+        Delay: 3.6
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 8
+        Health: 55
+        dx: 0
+        dy: 1
+        Delay: 0.2
+        Speed: 1
+        Arrow: 1
+      - Type: 8
+        Health: 55
+        dx: 1
+        dy: 1
+        Delay: 1.2
+        Speed: 1
+        Arrow: 1
+      - Type: 8
+        Health: 55
+        dx: 2
+        dy: 1
+        Delay: 2.2
+        Speed: 1
+        Arrow: 1
+      - Type: 8
+        Health: 55
+        dx: 3
+        dy: 1
+        Delay: 3.2
+        Speed: 1
+        Arrow: 1
+      - Type: 8
+        Health: 55
+        dx: 4
+        dy: 1
+        Delay: 0.8
+        Speed: 1
+        Arrow: -1
+      - Type: 8
+        Health: 55
+        dx: 5
+        dy: 1
+        Delay: 2.8
+        Speed: 1
+        Arrow: -1
+      - Type: 8
+        Health: 55
+        dx: 6
+        dy: 1
+        Delay: 3.8
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 3
+        Health: 30
+        dx: 0
+        dy: 2
+        Delay: 0.4
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 1
+        dy: 2
+        Delay: 1.4
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 2
+        dy: 2
+        Delay: 2.4
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 3
+        dy: 2
+        Delay: 0
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 30
+        dx: 4
+        dy: 2
+        Delay: 2
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 30
+        dx: 5
+        dy: 2
+        Delay: 3
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 30
+        dx: 6
+        dy: 2
+        Delay: 4
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 8
+        Health: 55
+        dx: 0
+        dy: 3
+        Delay: 0.6
+        Speed: 1
+        Arrow: 1
+      - Type: 8
+        Health: 55
+        dx: 1
+        dy: 3
+        Delay: 1.6
+        Speed: 1
+        Arrow: 1
+      - Type: 8
+        Health: 55
+        dx: 2
+        dy: 3
+        Delay: 2.6
+        Speed: 1
+        Arrow: 1
+      - Type: 8
+        Health: 55
+        dx: 3
+        dy: 3
+        Delay: 0.2
+        Speed: 1
+        Arrow: -1
+      - Type: 8
+        Health: 55
+        dx: 4
+        dy: 3
+        Delay: 2.2
+        Speed: 1
+        Arrow: -1
+      - Type: 8
+        Health: 55
+        dx: 5
+        dy: 3
+        Delay: 3.2
+        Speed: 1
+        Arrow: -1
+      - Type: 8
+        Health: 55
+        dx: 6
+        dy: 3
+        Delay: 4.2
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 3
+        Health: 30
+        dx: 0
+        dy: 4
+        Delay: 0.8
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 1
+        dy: 4
+        Delay: 1.8
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 2
+        dy: 4
+        Delay: 2.8
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 3
+        dy: 4
+        Delay: 0.4
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 30
+        dx: 4
+        dy: 4
+        Delay: 2.4
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 30
+        dx: 5
+        dy: 4
+        Delay: 3.4
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 30
+        dx: 6
+        dy: 4
+        Delay: 4.4
+        Speed: 1
+        Arrow: -1
+  - TextWave: "Enemy Fly 111!"
+    Width: 5
+    row: 6
+    column: 5
+    idThienThach: -1
+    posSafe: []
+    posUnSafe: []
+    TypeSort: 2
+    Distance: 1
+    Bonus: 010000000100000004000000
+    Time: 1
+    Speed: 4
+    namePath:
+    - 
+    - 
+    posStart: {x: 5, y: 0}
+    rotation: 0
+    Count: 30
+    Loop: 0
+    isFreeStyle: 0
+    Grid:
+    - listEnemy:
+      - Type: 1
+        Health: 40
+        dx: 0
+        dy: 0
+        Delay: 3
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 45
+        dx: 1
+        dy: 0
+        Delay: 2
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 50
+        dx: 2
+        dy: 0
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 50
+        dx: 3
+        dy: 0
+        Delay: 0
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 45
+        dx: 4
+        dy: 0
+        Delay: 1
+        Speed: 1
+        Arrow: -1
+      - Type: 1
+        Health: 40
+        dx: 5
+        dy: 0
+        Delay: 2
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 5
+        Health: 60
+        dx: 0
+        dy: 1
+        Delay: 3
+        Speed: 1
+        Arrow: 1
+      - Type: 5
+        Health: 60
+        dx: 1
+        dy: 1
+        Delay: 2
+        Speed: 1
+        Arrow: 1
+      - Type: 5
+        Health: 60
+        dx: 2
+        dy: 1
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 5
+        Health: 60
+        dx: 3
+        dy: 1
+        Delay: 0
+        Speed: 1
+        Arrow: -1
+      - Type: 5
+        Health: 60
+        dx: 4
+        dy: 1
+        Delay: 1
+        Speed: 1
+        Arrow: -1
+      - Type: 5
+        Health: 60
+        dx: 5
+        dy: 1
+        Delay: 2
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 1
+        Health: 40
+        dx: 0
+        dy: 2
+        Delay: 3
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 45
+        dx: 1
+        dy: 2
+        Delay: 2
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 15
+        dx: 2
+        dy: 2
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 50
+        dx: 3
+        dy: 2
+        Delay: 0
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 45
+        dx: 4
+        dy: 2
+        Delay: 1
+        Speed: 1
+        Arrow: -1
+      - Type: 1
+        Health: 40
+        dx: 5
+        dy: 2
+        Delay: 2
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 5
+        Health: 60
+        dx: 0
+        dy: 3
+        Delay: 3
+        Speed: 1
+        Arrow: 1
+      - Type: 5
+        Health: 60
+        dx: 1
+        dy: 3
+        Delay: 2
+        Speed: 1
+        Arrow: 1
+      - Type: 5
+        Health: 50
+        dx: 2
+        dy: 3
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 5
+        Health: 60
+        dx: 3
+        dy: 3
+        Delay: 0
+        Speed: 1
+        Arrow: -1
+      - Type: 5
+        Health: 60
+        dx: 4
+        dy: 3
+        Delay: 1
+        Speed: 1
+        Arrow: -1
+      - Type: 5
+        Health: 60
+        dx: 5
+        dy: 3
+        Delay: 2
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 1
+        Health: 40
+        dx: 0
+        dy: 4
+        Delay: 3
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 45
+        dx: 1
+        dy: 4
+        Delay: 2
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 50
+        dx: 2
+        dy: 4
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 50
+        dx: 3
+        dy: 4
+        Delay: 0
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 45
+        dx: 4
+        dy: 4
+        Delay: 1
+        Speed: 1
+        Arrow: -1
+      - Type: 1
+        Health: 40
+        dx: 5
+        dy: 4
+        Delay: 2
+        Speed: 1
+        Arrow: -1
+  - TextWave: "Meteorite!"
+    Width: 6
+    row: 7
+    column: 9
+    idThienThach: 1
+    posSafe: []
+    posUnSafe: []
+    TypeSort: 2
+    Distance: 1
+    Bonus: 02000000030000000200000003000000
+    Time: 1
+    Speed: 2
+    namePath:
+    - 
+    - 
+    posStart: {x: 0, y: -1}
+    rotation: 0
+    Count: 50
+    Loop: 0
+    isFreeStyle: 0
+    Grid:
+    - listEnemy:
+      - Type: 3
+        Health: 10
+        dx: 1
+        dy: 0
+        Delay: 1
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 5
+        dx: 2
+        dy: 0
+        Delay: 2
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 16
+        dx: 2
+        dy: 0
+        Delay: 4
+        Speed: 1
+        Arrow: -1
+      - Type: 0
+        Health: 20
+        dx: 3
+        dy: 0
+        Delay: 3.3
+        Speed: 1
+        Arrow: 1
+      - Type: 0
+        Health: 2
+        dx: 5
+        dy: 0
+        Delay: 1.6
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 16
+        dx: 6
+        dy: 0
+        Delay: 2.6
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 2
+        Health: 18
+        dx: 1
+        dy: 1
+        Delay: 2.2
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 5
+        dx: 3
+        dy: 1
+        Delay: 4.2
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 70
+        dx: 2
+        dy: 1
+        Delay: 1.4
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 1
+        dx: 5
+        dy: 1
+        Delay: 1.8
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 5
+        dx: 6
+        dy: 1
+        Delay: 2.8
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 3
+        Health: 12
+        dx: 0
+        dy: 2
+        Delay: 1.4
+        Speed: 1
+        Arrow: -1
+      - Type: 1
+        Health: 3
+        dx: 1
+        dy: 2
+        Delay: 3
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 3
+        dx: 2
+        dy: 2
+        Delay: 2.4
+        Speed: 1
+        Arrow: -1
+      - Type: 0
+        Health: 5
+        dx: 1
+        dy: 2
+        Delay: 1.9
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 5
+        dx: 4
+        dy: 2
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 1
+        dx: 5
+        dy: 2
+        Delay: 2
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 40
+        dx: 6
+        dy: 2
+        Delay: 3
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 0
+        Health: 10
+        dx: 0
+        dy: 3
+        Delay: 1.6
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 30
+        dx: 1
+        dy: 3
+        Delay: 2.6
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 55
+        dx: 1
+        dy: 3
+        Delay: 5.2
+        Speed: 1
+        Arrow: 1
+      - Type: 0
+        Health: 5
+        dx: 4
+        dy: 3
+        Delay: 1.2
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 3
+        dx: 5
+        dy: 3
+        Delay: 2.2
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 5
+        dx: 6
+        dy: 3
+        Delay: 3.3
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 1
+        Health: 40
+        dx: 0
+        dy: 4
+        Delay: 2.2
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 5
+        dx: 1
+        dy: 4
+        Delay: 2.8
+        Speed: 1
+        Arrow: -1
+      - Type: 1
+        Health: 3
+        dx: 2
+        dy: 4
+        Delay: 1.2
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 30
+        dx: 1
+        dy: 4
+        Delay: 5.4
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 5
+        dx: 4
+        dy: 4
+        Delay: 0.2
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 7
+        dx: 5
+        dy: 4
+        Delay: 2.4
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 1
+        Health: 3
+        dx: 0
+        dy: 5
+        Delay: 2.2
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 5
+        dx: 1
+        dy: 5
+        Delay: 2.8
+        Speed: 1
+        Arrow: -1
+      - Type: 0
+        Health: 15
+        dx: 1
+        dy: 5
+        Delay: 5.4
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 50
+        dx: 4
+        dy: 5
+        Delay: 0.2
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 27
+        dx: 5
+        dy: 5
+        Delay: 2.4
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 6
+        dx: 6
+        dy: 5
+        Delay: 3.4
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 0
+        Health: 10
+        dx: 0
+        dy: 6
+        Delay: 1.4
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 3
+        dx: 2
+        dy: 6
+        Delay: 2.4
+        Speed: 1
+        Arrow: -1
+      - Type: 0
+        Health: 5
+        dx: 1
+        dy: 6
+        Delay: 1.9
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 5
+        dx: 4
+        dy: 6
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 40
+        dx: 5
+        dy: 6
+        Delay: 2
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 5
+        dx: 6
+        dy: 6
+        Delay: 3
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 3
+        Health: 1
+        dx: 0
+        dy: 7
+        Delay: 1
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 55
+        dx: 2
+        dy: 7
+        Delay: 2
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 6
+        dx: 3
+        dy: 7
+        Delay: 4
+        Speed: 1
+        Arrow: -1
+      - Type: 0
+        Health: 2
+        dx: 5
+        dy: 7
+        Delay: 1.6
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 6
+        dx: 6
+        dy: 7
+        Delay: 2.6
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 0
+        Health: 30
+        dx: 2
+        dy: 8
+        Delay: 1.6
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 35
+        dx: 4
+        dy: 8
+        Delay: 5.2
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 25
+        dx: 6
+        dy: 8
+        Delay: 3.3
+        Speed: 1
+        Arrow: 1
+  - TextWave: "Enemy Run!"
+    Width: 6
+    row: 7
+    column: 9
+    idThienThach: 1
+    posSafe: []
+    posUnSafe: []
+    TypeSort: 1
+    Distance: 1.2
+    Bonus: 02000000020000000100000004000000
+    Time: 2
+    Speed: 1
+    namePath:
+    - 
+    - 
+    posStart: {x: 5, y: 1}
+    rotation: 0
+    Count: 55
+    Loop: 0
+    isFreeStyle: 0
+    Grid:
+    - listEnemy:
+      - Type: 3
+        Health: 30
+        dx: 0
+        dy: 0
+        Delay: 0
+        Speed: 1
+        Arrow: 1
+      - Type: 0
+        Health: 30
+        dx: 1
+        dy: 0
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 2
+        dy: 0
+        Delay: 2
+        Speed: 1
+        Arrow: 1
+      - Type: 0
+        Health: 30
+        dx: 3
+        dy: 0
+        Delay: 3
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 30
+        dx: 4
+        dy: 0
+        Delay: 0.6
+        Speed: 1
+        Arrow: -1
+      - Type: 1
+        Health: 30
+        dx: 5
+        dy: 0
+        Delay: 2.6
+        Speed: 1
+        Arrow: -1
+      - Type: 0
+        Health: 30
+        dx: 6
+        dy: 0
+        Delay: 3.6
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 2
+        Health: 39
+        dx: 0
+        dy: 1
+        Delay: 0.2
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 39
+        dx: 1
+        dy: 1
+        Delay: 1.2
+        Speed: 1
+        Arrow: 1
+      - Type: 0
+        Health: 39
+        dx: 2
+        dy: 1
+        Delay: 2.2
+        Speed: 1
+        Arrow: 1
+      - Type: 0
+        Health: 39
+        dx: 3
+        dy: 1
+        Delay: 3.2
+        Speed: 1
+        Arrow: 1
+      - Type: 0
+        Health: 39
+        dx: 4
+        dy: 1
+        Delay: 0.8
+        Speed: 1
+        Arrow: -1
+      - Type: 1
+        Health: 39
+        dx: 5
+        dy: 1
+        Delay: 2.8
+        Speed: 1
+        Arrow: -1
+      - Type: 0
+        Health: 39
+        dx: 6
+        dy: 1
+        Delay: 3.8
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 3
+        Health: 30
+        dx: 0
+        dy: 2
+        Delay: 0.4
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 1
+        dy: 2
+        Delay: 1.4
+        Speed: 1
+        Arrow: 1
+      - Type: 0
+        Health: 30
+        dx: 2
+        dy: 2
+        Delay: 2.4
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 3
+        dy: 2
+        Delay: 0
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 30
+        dx: 4
+        dy: 2
+        Delay: 2
+        Speed: 1
+        Arrow: -1
+      - Type: 0
+        Health: 30
+        dx: 5
+        dy: 2
+        Delay: 3
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 30
+        dx: 6
+        dy: 2
+        Delay: 4
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 1
+        Health: 39
+        dx: 0
+        dy: 3
+        Delay: 0.6
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 39
+        dx: 1
+        dy: 3
+        Delay: 1.6
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 39
+        dx: 2
+        dy: 3
+        Delay: 2.6
+        Speed: 1
+        Arrow: 1
+      - Type: 0
+        Health: 39
+        dx: 3
+        dy: 3
+        Delay: 0.2
+        Speed: 1
+        Arrow: -1
+      - Type: 0
+        Health: 39
+        dx: 4
+        dy: 3
+        Delay: 2.2
+        Speed: 1
+        Arrow: -1
+      - Type: 0
+        Health: 39
+        dx: 5
+        dy: 3
+        Delay: 3.2
+        Speed: 1
+        Arrow: -1
+      - Type: 1
+        Health: 39
+        dx: 6
+        dy: 3
+        Delay: 4.2
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 0
+        Health: 30
+        dx: 0
+        dy: 4
+        Delay: 0.8
+        Speed: 1
+        Arrow: 1
+      - Type: 0
+        Health: 30
+        dx: 1
+        dy: 4
+        Delay: 1.8
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 30
+        dx: 2
+        dy: 4
+        Delay: 2.8
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 30
+        dx: 3
+        dy: 4
+        Delay: 0.4
+        Speed: 1
+        Arrow: -1
+      - Type: 1
+        Health: 30
+        dx: 4
+        dy: 4
+        Delay: 2.4
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 30
+        dx: 5
+        dy: 4
+        Delay: 3.4
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 30
+        dx: 6
+        dy: 4
+        Delay: 4.4
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 1
+        Health: 3
+        dx: 0
+        dy: 5
+        Delay: 2.2
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 5
+        dx: 1
+        dy: 5
+        Delay: 2.8
+        Speed: 1
+        Arrow: -1
+      - Type: 0
+        Health: 15
+        dx: 1
+        dy: 5
+        Delay: 5.4
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 50
+        dx: 4
+        dy: 5
+        Delay: 0.2
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 27
+        dx: 5
+        dy: 5
+        Delay: 2.4
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 6
+        dx: 6
+        dy: 5
+        Delay: 3.4
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 0
+        Health: 10
+        dx: 0
+        dy: 6
+        Delay: 1.4
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 3
+        dx: 2
+        dy: 6
+        Delay: 2.4
+        Speed: 1
+        Arrow: -1
+      - Type: 0
+        Health: 5
+        dx: 1
+        dy: 6
+        Delay: 1.9
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 5
+        dx: 4
+        dy: 6
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 40
+        dx: 5
+        dy: 6
+        Delay: 2
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 5
+        dx: 6
+        dy: 6
+        Delay: 3
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 3
+        Health: 1
+        dx: 0
+        dy: 7
+        Delay: 1
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 55
+        dx: 2
+        dy: 7
+        Delay: 2
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 6
+        dx: 3
+        dy: 7
+        Delay: 4
+        Speed: 1
+        Arrow: -1
+      - Type: 0
+        Health: 2
+        dx: 5
+        dy: 7
+        Delay: 1.6
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 6
+        dx: 6
+        dy: 7
+        Delay: 2.6
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 0
+        Health: 30
+        dx: 2
+        dy: 8
+        Delay: 1.6
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 35
+        dx: 4
+        dy: 8
+        Delay: 5.2
+        Speed: 1
+        Arrow: 1
+      - Type: 1
+        Health: 25
+        dx: 6
+        dy: 8
+        Delay: 3.3
+        Speed: 1
+        Arrow: 1
+  - TextWave: "Space 3!"
+    Width: 5
+    row: 0
+    column: 0
+    idThienThach: -1
+    posSafe: []
+    posUnSafe: []
+    TypeSort: 1
+    Distance: 0.9
+    Bonus: 000000000100000000000000010000000200000003000000
+    Time: 1
+    Speed: 4
+    namePath:
+    - 
+    - 
+    posStart: {x: 5, y: 1}
+    rotation: 0
+    Count: 12
+    Loop: 0
+    isFreeStyle: 1
+    Grid:
+    - listEnemy:
+      - Type: 6
+        Health: 45
+        dx: 0
+        dy: -1
+        Delay: 0
+        Speed: 1
+        Arrow: 1
+      - Type: 6
+        Health: 45
+        dx: 2
+        dy: -1
+        Delay: 1.6
+        Speed: 1
+        Arrow: -1
+      - Type: 6
+        Health: 45
+        dx: 4
+        dy: -1
+        Delay: 3.2
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 6
+        Health: 45
+        dx: -1
+        dy: 1
+        Delay: 0.4
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 35
+        dx: 2
+        dy: 1
+        Delay: 2
+        Speed: 1
+        Arrow: 1
+      - Type: 6
+        Health: 45
+        dx: 5
+        dy: 1
+        Delay: 3.6
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 6
+        Health: 45
+        dx: 0
+        dy: 3
+        Delay: 0.8
+        Speed: 1
+        Arrow: 1
+      - Type: 6
+        Health: 45
+        dx: 2
+        dy: 3
+        Delay: 2.4
+        Speed: 1
+        Arrow: -1
+      - Type: 6
+        Health: 45
+        dx: 4
+        dy: 3
+        Delay: 4
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 2
+        Health: 30
+        dx: -1
+        dy: 5
+        Delay: 1.2
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 30
+        dx: 2
+        dy: 5
+        Delay: 2.8
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 30
+        dx: 4
+        dy: 5
+        Delay: 4.4
+        Speed: 1
+        Arrow: -1
+  - TextWave: "Space 3!"
+    Width: 5
+    row: 0
+    column: 0
+    idThienThach: -1
+    posSafe: []
+    posUnSafe: []
+    TypeSort: 1
+    Distance: 0.9
+    Bonus: 000000000100000000000000010000000200000003000000
+    Time: 1
+    Speed: 4
+    namePath:
+    - 
+    - 
+    posStart: {x: 5, y: 1}
+    rotation: 0
+    Count: 12
+    Loop: 0
+    isFreeStyle: 1
+    Grid:
+    - listEnemy:
+      - Type: 6
+        Health: 55
+        dx: 0
+        dy: -1
+        Delay: 0
+        Speed: 1
+        Arrow: 1
+      - Type: 6
+        Health: 55
+        dx: 2
+        dy: -1
+        Delay: 1.6
+        Speed: 1
+        Arrow: -1
+      - Type: 6
+        Health: 55
+        dx: 4
+        dy: -1
+        Delay: 3.2
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 6
+        Health: 55
+        dx: -1
+        dy: 1
+        Delay: 0.4
+        Speed: 1
+        Arrow: -1
+      - Type: 3
+        Health: 35
+        dx: 2
+        dy: 1
+        Delay: 2
+        Speed: 1
+        Arrow: 1
+      - Type: 6
+        Health: 55
+        dx: 5
+        dy: 1
+        Delay: 3.6
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 6
+        Health: 55
+        dx: 0
+        dy: 3
+        Delay: 0.8
+        Speed: 1
+        Arrow: 1
+      - Type: 6
+        Health: 55
+        dx: 2
+        dy: 3
+        Delay: 2.4
+        Speed: 1
+        Arrow: -1
+      - Type: 6
+        Health: 55
+        dx: 4
+        dy: 3
+        Delay: 4
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 2
+        Health: 40
+        dx: -1
+        dy: 5
+        Delay: 1.2
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 40
+        dx: 2
+        dy: 5
+        Delay: 2.8
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 40
+        dx: 4
+        dy: 5
+        Delay: 4.4
+        Speed: 1
+        Arrow: -1
+  - TextWave: "Enemy Run!"
+    Width: 6
+    row: 7
+    column: 5
+    idThienThach: -1
+    posSafe: []
+    posUnSafe: []
+    TypeSort: 1
+    Distance: 1.1
+    Bonus: 00000000020000000100000004000000
+    Time: 2
+    Speed: 9
+    namePath:
+    - "arrow1"
+    - "arrow2"
+    posStart: {x: 5, y: 1}
+    rotation: 0
+    Count: 35
+    Loop: 0
+    isFreeStyle: 0
+    Grid:
+    - listEnemy:
+      - Type: 4
+        Health: 40
+        dx: 0
+        dy: 0
+        Delay: 0
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 30
+        dx: 1
+        dy: 0
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 40
+        dx: 2
+        dy: 0
+        Delay: 2
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 30
+        dx: 3
+        dy: 0
+        Delay: 3
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 40
+        dx: 4
+        dy: 0
+        Delay: 0.6
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 30
+        dx: 5
+        dy: 0
+        Delay: 1.6
+        Speed: 1
+        Arrow: -1
+      - Type: 4
+        Health: 40
+        dx: 6
+        dy: 0
+        Delay: 2.6
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 2
+        Health: 30
+        dx: 0
+        dy: 1
+        Delay: 0.2
+        Speed: 1
+        Arrow: 1
+      - Type: 8
+        Health: 65
+        dx: 1
+        dy: 1
+        Delay: 1.2
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 30
+        dx: 2
+        dy: 1
+        Delay: 2.2
+        Speed: 1
+        Arrow: 1
+      - Type: 8
+        Health: 65
+        dx: 3
+        dy: 1
+        Delay: 3.2
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 30
+        dx: 4
+        dy: 1
+        Delay: 0.8
+        Speed: 1
+        Arrow: -1
+      - Type: 8
+        Health: 65
+        dx: 5
+        dy: 1
+        Delay: 1.8
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 30
+        dx: 6
+        dy: 1
+        Delay: 2.8
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 4
+        Health: 40
+        dx: 0
+        dy: 2
+        Delay: 0.4
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 30
+        dx: 1
+        dy: 2
+        Delay: 1.4
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 40
+        dx: 2
+        dy: 2
+        Delay: 2.4
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 30
+        dx: 3
+        dy: 2
+        Delay: 0
+        Speed: 1
+        Arrow: -1
+      - Type: 4
+        Health: 40
+        dx: 4
+        dy: 2
+        Delay: 1
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 30
+        dx: 5
+        dy: 2
+        Delay: 2
+        Speed: 1
+        Arrow: -1
+      - Type: 4
+        Health: 40
+        dx: 6
+        dy: 2
+        Delay: 3
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 2
+        Health: 30
+        dx: 0
+        dy: 3
+        Delay: 0.6
+        Speed: 1
+        Arrow: 1
+      - Type: 8
+        Health: 65
+        dx: 1
+        dy: 3
+        Delay: 1.6
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 30
+        dx: 2
+        dy: 3
+        Delay: 2.6
+        Speed: 1
+        Arrow: 1
+      - Type: 8
+        Health: 65
+        dx: 3
+        dy: 3
+        Delay: 0.2
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 30
+        dx: 4
+        dy: 3
+        Delay: 1.2
+        Speed: 1
+        Arrow: -1
+      - Type: 8
+        Health: 65
+        dx: 5
+        dy: 3
+        Delay: 2.2
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 30
+        dx: 6
+        dy: 3
+        Delay: 3.2
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 4
+        Health: 40
+        dx: 0
+        dy: 4
+        Delay: 0.8
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 30
+        dx: 1
+        dy: 4
+        Delay: 1.8
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 40
+        dx: 2
+        dy: 4
+        Delay: 2.8
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 30
+        dx: 3
+        dy: 4
+        Delay: 0.4
+        Speed: 1
+        Arrow: -1
+      - Type: 4
+        Health: 40
+        dx: 4
+        dy: 4
+        Delay: 1.4
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 30
+        dx: 5
+        dy: 4
+        Delay: 2.4
+        Speed: 1
+        Arrow: -1
+      - Type: 4
+        Health: 40
+        dx: 6
+        dy: 4
+        Delay: 3.4
+        Speed: 1
+        Arrow: -1
+  - TextWave: "Enemy Run!"
+    Width: 6
+    row: 7
+    column: 5
+    idThienThach: -1
+    posSafe: []
+    posUnSafe: []
+    TypeSort: 1
+    Distance: 1.1
+    Bonus: 00000000020000000100000004000000
+    Time: 2
+    Speed: 8
+    namePath:
+    - "arrow1"
+    - "arrow2"
+    posStart: {x: 5, y: 1}
+    rotation: 0
+    Count: 35
+    Loop: 1
+    isFreeStyle: 0
+    Grid:
+    - listEnemy:
+      - Type: 4
+        Health: 40
+        dx: 0
+        dy: 0
+        Delay: 0
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 30
+        dx: 1
+        dy: 0
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 40
+        dx: 2
+        dy: 0
+        Delay: 2
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 30
+        dx: 3
+        dy: 0
+        Delay: 3
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 40
+        dx: 4
+        dy: 0
+        Delay: 0.6
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 30
+        dx: 5
+        dy: 0
+        Delay: 1.6
+        Speed: 1
+        Arrow: -1
+      - Type: 4
+        Health: 40
+        dx: 6
+        dy: 0
+        Delay: 2.6
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 2
+        Health: 30
+        dx: 0
+        dy: 1
+        Delay: 0.2
+        Speed: 1
+        Arrow: 1
+      - Type: 8
+        Health: 65
+        dx: 1
+        dy: 1
+        Delay: 1.2
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 30
+        dx: 2
+        dy: 1
+        Delay: 2.2
+        Speed: 1
+        Arrow: 1
+      - Type: 8
+        Health: 65
+        dx: 3
+        dy: 1
+        Delay: 3.2
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 30
+        dx: 4
+        dy: 1
+        Delay: 0.8
+        Speed: 1
+        Arrow: -1
+      - Type: 8
+        Health: 65
+        dx: 5
+        dy: 1
+        Delay: 1.8
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 30
+        dx: 6
+        dy: 1
+        Delay: 2.8
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 4
+        Health: 40
+        dx: 0
+        dy: 2
+        Delay: 0.4
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 30
+        dx: 1
+        dy: 2
+        Delay: 1.4
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 40
+        dx: 2
+        dy: 2
+        Delay: 2.4
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 30
+        dx: 3
+        dy: 2
+        Delay: 0
+        Speed: 1
+        Arrow: -1
+      - Type: 4
+        Health: 40
+        dx: 4
+        dy: 2
+        Delay: 1
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 30
+        dx: 5
+        dy: 2
+        Delay: 2
+        Speed: 1
+        Arrow: -1
+      - Type: 4
+        Health: 40
+        dx: 6
+        dy: 2
+        Delay: 3
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 2
+        Health: 30
+        dx: 0
+        dy: 3
+        Delay: 0.6
+        Speed: 1
+        Arrow: 1
+      - Type: 8
+        Health: 65
+        dx: 1
+        dy: 3
+        Delay: 1.6
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 30
+        dx: 2
+        dy: 3
+        Delay: 2.6
+        Speed: 1
+        Arrow: 1
+      - Type: 8
+        Health: 65
+        dx: 3
+        dy: 3
+        Delay: 0.2
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 30
+        dx: 4
+        dy: 3
+        Delay: 1.2
+        Speed: 1
+        Arrow: -1
+      - Type: 8
+        Health: 65
+        dx: 5
+        dy: 3
+        Delay: 2.2
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 30
+        dx: 6
+        dy: 3
+        Delay: 3.2
+        Speed: 1
+        Arrow: -1
+    - listEnemy:
+      - Type: 4
+        Health: 40
+        dx: 0
+        dy: 4
+        Delay: 0.8
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 30
+        dx: 1
+        dy: 4
+        Delay: 1.8
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 40
+        dx: 2
+        dy: 4
+        Delay: 2.8
+        Speed: 1
+        Arrow: 1
+      - Type: 2
+        Health: 30
+        dx: 3
+        dy: 4
+        Delay: 0.4
+        Speed: 1
+        Arrow: -1
+      - Type: 4
+        Health: 40
+        dx: 4
+        dy: 4
+        Delay: 1.4
+        Speed: 1
+        Arrow: -1
+      - Type: 2
+        Health: 30
+        dx: 5
+        dy: 4
+        Delay: 2.4
+        Speed: 1
+        Arrow: -1
+      - Type: 4
+        Health: 40
+        dx: 6
+        dy: 4
+        Delay: 3.4
+        Speed: 1
+        Arrow: -1
+  - TextWave: "Enemy Run!"
+    Width: 6
+    row: 7
+    column: 5
+    idThienThach: -1
+    posSafe: []
+    posUnSafe: []
+    TypeSort: 1
+    Distance: 2
+    Bonus: 00000000020000000100000004000000
+    Time: 2
+    Speed: 8
+    namePath:
+    - "storm"
+    - 
+    posStart: {x: 5, y: 1}
+    rotation: 0
+    Count: 35
+    Loop: 1
+    isFreeStyle: 0
+    Grid:
+    - listEnemy:
+      - Type: 4
+        Health: 40
+        dx: 0
+        dy: 0
+        Delay: 0
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 1
+        dy: 0
+        Delay: 1
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 40
+        dx: 2
+        dy: 0
+        Delay: 2
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 3
+        dy: 0
+        Delay: 3
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 40
+        dx: 4
+        dy: 0
+        Delay: 4
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 5
+        dy: 0
+        Delay: 5
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 40
+        dx: 6
+        dy: 0
+        Delay: 6
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 3
+        Health: 30
+        dx: 0
+        dy: 1
+        Delay: 0.2
+        Speed: 1
+        Arrow: 1
+      - Type: 8
+        Health: 65
+        dx: 1
+        dy: 1
+        Delay: 1.2
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 2
+        dy: 1
+        Delay: 2.2
+        Speed: 1
+        Arrow: 1
+      - Type: 8
+        Health: 65
+        dx: 3
+        dy: 1
+        Delay: 3.2
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 4
+        dy: 1
+        Delay: 4.2
+        Speed: 1
+        Arrow: 1
+      - Type: 8
+        Health: 65
+        dx: 5
+        dy: 1
+        Delay: 5.2
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 6
+        dy: 1
+        Delay: 6.2
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 4
+        Health: 40
+        dx: 0
+        dy: 2
+        Delay: 0.4
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 1
+        dy: 2
+        Delay: 1.4
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 40
+        dx: 2
+        dy: 2
+        Delay: 2.4
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 3
+        dy: 2
+        Delay: 3.4
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 40
+        dx: 4
+        dy: 2
+        Delay: 4.4
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 5
+        dy: 2
+        Delay: 5.4
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 40
+        dx: 6
+        dy: 2
+        Delay: 6.4
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 3
+        Health: 30
+        dx: 0
+        dy: 3
+        Delay: 0.6
+        Speed: 1
+        Arrow: 1
+      - Type: 8
+        Health: 65
+        dx: 1
+        dy: 3
+        Delay: 1.6
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 2
+        dy: 3
+        Delay: 2.6
+        Speed: 1
+        Arrow: 1
+      - Type: 8
+        Health: 65
+        dx: 3
+        dy: 3
+        Delay: 3.6
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 4
+        dy: 3
+        Delay: 4.6
+        Speed: 1
+        Arrow: 1
+      - Type: 8
+        Health: 65
+        dx: 5
+        dy: 3
+        Delay: 5.6
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 6
+        dy: 3
+        Delay: 6.6
+        Speed: 1
+        Arrow: 1
+    - listEnemy:
+      - Type: 4
+        Health: 40
+        dx: 0
+        dy: 4
+        Delay: 0.8
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 1
+        dy: 4
+        Delay: 1.8
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 40
+        dx: 2
+        dy: 4
+        Delay: 2.8
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 3
+        dy: 4
+        Delay: 3.8
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 40
+        dx: 4
+        dy: 4
+        Delay: 4.8
+        Speed: 1
+        Arrow: 1
+      - Type: 3
+        Health: 30
+        dx: 5
+        dy: 4
+        Delay: 5.8
+        Speed: 1
+        Arrow: 1
+      - Type: 4
+        Health: 40
+        dx: 6
+        dy: 4
+        Delay: 6.8
+        Speed: 1
+        Arrow: 1
+  haveBoss: 0
+  typeBoss: 0

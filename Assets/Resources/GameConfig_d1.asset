@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9da2ee74ed9e5e5a203ca434ed6fb63, type: 3}
+  m_Name: GameConfig_d1
+  m_EditorClassIdentifier: 
+  dataGame:
+    Health: 1
+    Rocket: 0
+    Bullet: 1
+    Coin: 0
+    Mana: 0
+    pricePower: C8000000F4010000DC050000D0070000A00F0000401F0000803E0000204E0000F0550000C05D0000
+    valuePower:
+    - 1.2
+    - 1.5
+    - 1.8
+    - 2
+    - 2.2
+    - 2.4
+    - 2.5
+    - 2.7
+    - 3
+    - 3.2
+    priceMax: F4010000A00F000070170000401F000010270000E02E0000
+    valueMax:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6

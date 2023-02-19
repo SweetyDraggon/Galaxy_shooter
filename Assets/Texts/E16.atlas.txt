@@ -1,0 +1,27 @@
+
+E16.png
+size: 397,397
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer-14-copy-7
+  rotate: false
+  xy: 2, 75
+  size: 198, 320
+  orig: 198, 320
+  offset: 0, 0
+  index: -1
+Layer-7
+  rotate: false
+  xy: 202, 293
+  size: 193, 102
+  orig: 193, 102
+  offset: 0, 0
+  index: -1
+Layer-8
+  rotate: false
+  xy: 202, 189
+  size: 193, 102
+  orig: 193, 102
+  offset: 0, 0
+  index: -1

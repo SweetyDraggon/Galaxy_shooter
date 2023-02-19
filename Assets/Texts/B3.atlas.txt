@@ -1,0 +1,90 @@
+
+B3.png
+size: 595,595
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer-11
+  rotate: false
+  xy: 112, 39
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+Layer-11-copy-2
+  rotate: false
+  xy: 506, 540
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+Layer-11-copy-3
+  rotate: false
+  xy: 57, 38
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+Layer-11-copy-4
+  rotate: false
+  xy: 2, 37
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+Layer-14-copy
+  rotate: true
+  xy: 465, 441
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+Layer-14-copy-2
+  rotate: false
+  xy: 2, 3
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+Layer-15-copy
+  rotate: true
+  xy: 247, 2
+  size: 169, 209
+  orig: 169, 209
+  offset: 0, 0
+  index: -1
+Layer-27-copy
+  rotate: false
+  xy: 2, 93
+  size: 243, 249
+  orig: 243, 249
+  offset: 0, 0
+  index: -1
+Layer-28-copy-2
+  rotate: false
+  xy: 248, 384
+  size: 215, 209
+  orig: 215, 209
+  offset: 0, 0
+  index: -1
+Layer-28-copy-3
+  rotate: false
+  xy: 248, 173
+  size: 215, 209
+  orig: 215, 209
+  offset: 0, 0
+  index: -1
+Layer-30
+  rotate: false
+  xy: 465, 490
+  size: 39, 103
+  orig: 39, 103
+  offset: 0, 0
+  index: -1
+Layer-4-copy
+  rotate: false
+  xy: 2, 344
+  size: 244, 249
+  orig: 244, 249
+  offset: 0, 0
+  index: -1

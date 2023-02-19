@@ -1,0 +1,33 @@
+<document>
+  <string name="CHALLENGE">SFIDA</string>
+  <string name="INFINITY">INFINITA</string>
+  <string name="UPGRADE">POTENZIAMENTO</string>
+  <string name="SETTINGS">IMPOSTAZIONI</string>
+  <string name="MUSIC">MUSICA</string>
+  <string name="SOUND">AUDIO</string>
+  <string name="AGEEE">ETÀÀÀ</string>
+  <string name="Tips:">Suggerimenti:</string>
+  <string name="Score:">Punteggio:</string>
+  <string name="Map:">Mappa:</string>
+  <string name="Wave">Ondata</string>
+  <string name="LOADING...">CARICAMENTO…</string>
+  <string name="PAUSE">PAUSA</string>
+  <string name="UPGRADE_SPACESHIP">POTENZIA NAVICELLA</string>
+  <string name="Power">Danno</string>
+  <string name="Max">Potenza max</string>
+  <string name="DEFEAT">HAI PERSO!</string>
+  <string name="High_Score:">Record:</string>
+  <string name="LEVEL_COMPLETE">LIVELLO COMPLETATO</string>
+  <string name="Coin:">Monete:</string>
+  <string name="START">AVVIO</string>
+  <string name="You_Want_to_Quit?">Uscire dal gioco?</string>
+  <string name="NO">NO</string>
+  <string name="YES">SÌ</string>
+  <string name="SafeZone">Zona sicura</string>
+  <string name="Danger">Pericolo</string>
+  <string name="tip_0">Puoi scambiare le monete per una vita aggiuntiva</string>
+  <string name="tip_1">Prendi le gemme per ricevere i missili</string>
+  <string name="tip_2">Rilascia il dito per scegliere il missile</string>
+  <string name="congrats">Complimenti!</string>
+  <string name="win_msg">Hai eliminato tutti gli alieni invasori dallo spazio!</string>
+</document>

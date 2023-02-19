@@ -1,0 +1,83 @@
+
+E1.png
+size: 495,495
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer-10
+  rotate: false
+  xy: 206, 211
+  size: 45, 87
+  orig: 45, 87
+  offset: 0, 0
+  index: -1
+Layer-10-copy
+  rotate: true
+  xy: 253, 229
+  size: 45, 87
+  orig: 45, 87
+  offset: 0, 0
+  index: -1
+Layer-2-copy
+  rotate: false
+  xy: 261, 276
+  size: 228, 217
+  orig: 228, 217
+  offset: 0, 0
+  index: -1
+Layer-4-copy-3
+  rotate: true
+  xy: 2, 3
+  size: 178, 193
+  orig: 178, 193
+  offset: 0, 0
+  index: -1
+Layer-5-copy-3
+  rotate: true
+  xy: 342, 161
+  size: 113, 130
+  orig: 113, 130
+  offset: 0, 0
+  index: -1
+Layer-6
+  rotate: false
+  xy: 2, 300
+  size: 257, 193
+  orig: 257, 193
+  offset: 0, 0
+  index: -1
+Layer-6-copy
+  rotate: true
+  xy: 474, 246
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+Layer-7-copy-2
+  rotate: true
+  xy: 2, 183
+  size: 115, 202
+  orig: 115, 202
+  offset: 0, 0
+  index: -1
+Layer-7-copy-3
+  rotate: false
+  xy: 206, 7
+  size: 115, 202
+  orig: 115, 202
+  offset: 0, 0
+  index: -1
+Layer-9
+  rotate: false
+  xy: 323, 38
+  size: 82, 121
+  orig: 82, 121
+  offset: 0, 0
+  index: -1
+Layer-9-copy
+  rotate: false
+  xy: 407, 38
+  size: 82, 121
+  orig: 82, 121
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+E8.png
+size: 479,479
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer-14-copy-2
+  rotate: false
+  xy: 226, 301
+  size: 235, 176
+  orig: 235, 176
+  offset: 0, 0
+  index: -1
+Layer-15-copy-2
+  rotate: false
+  xy: 208, 19
+  size: 86, 56
+  orig: 86, 56
+  offset: 0, 0
+  index: -1
+Layer-16
+  rotate: false
+  xy: 432, 212
+  size: 45, 87
+  orig: 45, 87
+  offset: 0, 0
+  index: -1
+Layer-16-copy-2
+  rotate: true
+  xy: 296, 18
+  size: 45, 87
+  orig: 45, 87
+  offset: 0, 0
+  index: -1
+Layer-17
+  rotate: false
+  xy: 2, 117
+  size: 222, 360
+  orig: 222, 360
+  offset: 0, 0
+  index: -1
+Layer-18
+  rotate: false
+  xy: 2, 20
+  size: 204, 95
+  orig: 204, 95
+  offset: 0, 0
+  index: -1
+Layer-19-copy
+  rotate: false
+  xy: 339, 65
+  size: 108, 64
+  orig: 108, 64
+  offset: 0, 0
+  index: -1
+Layer-19-copy-2
+  rotate: false
+  xy: 226, 204
+  size: 204, 95
+  orig: 204, 95
+  offset: 0, 0
+  index: -1
+Layer-20-copy
+  rotate: false
+  xy: 226, 77
+  size: 111, 52
+  orig: 111, 52
+  offset: 0, 0
+  index: -1
+Layer-9-copy
+  rotate: true
+  xy: 226, 131
+  size: 71, 104
+  orig: 71, 104
+  offset: 0, 0
+  index: -1
+Layer-9-copy-2
+  rotate: true
+  xy: 332, 131
+  size: 71, 104
+  orig: 71, 104
+  offset: 0, 0
+  index: -1

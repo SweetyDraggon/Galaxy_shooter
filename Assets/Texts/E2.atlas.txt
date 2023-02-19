@@ -1,0 +1,62 @@
+
+E2.png
+size: 441,441
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer-19-copy
+  rotate: false
+  xy: 2, 19
+  size: 260, 190
+  orig: 260, 190
+  offset: 0, 0
+  index: -1
+Layer-21
+  rotate: true
+  xy: 277, 168
+  size: 271, 120
+  orig: 271, 120
+  offset: 0, 0
+  index: -1
+Layer-22
+  rotate: true
+  xy: 318, 42
+  size: 124, 63
+  orig: 124, 63
+  offset: 0, 0
+  index: -1
+Layer-22-copy
+  rotate: true
+  xy: 383, 47
+  size: 119, 56
+  orig: 119, 56
+  offset: 0, 0
+  index: -1
+Layer-23-copy
+  rotate: true
+  xy: 264, 16
+  size: 150, 52
+  orig: 150, 52
+  offset: 0, 0
+  index: -1
+Layer-25
+  rotate: false
+  xy: 2, 211
+  size: 273, 228
+  orig: 273, 228
+  offset: 0, 0
+  index: -1
+Layer-7-copy-2
+  rotate: true
+  xy: 399, 180
+  size: 128, 40
+  orig: 128, 40
+  offset: 0, 0
+  index: -1
+Layer-7-copy-3
+  rotate: true
+  xy: 399, 310
+  size: 129, 40
+  orig: 129, 40
+  offset: 0, 0
+  index: -1
